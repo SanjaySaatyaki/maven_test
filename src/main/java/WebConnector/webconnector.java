@@ -230,7 +230,7 @@ public class webconnector<V> {
     	}
 	    	catch(Exception e)
 	    	{
-				//test all
+				//test comment
 	    		throw new IllegalArgumentException("wait For Condition \"" + TypeOfWait + "\" isn't supported.");
 	    	}
     }
